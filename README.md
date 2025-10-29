@@ -1,16 +1,46 @@
-# React + Vite
+# 🎵 Spotify Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **frontend Spotify Clone** built using **React + Vite** and **Tailwind CSS**.  
+This project replicates the look and feel of Spotify’s web interface — including playlists, albums, and music player layout — as part of my journey to **upskill in React and Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## React Compiler
+- ⚛️ **React (Vite)** — for fast and modular frontend development  
+- 🎨 **Tailwind CSS** — for beautiful, responsive UI styling  
+- 💻 **JavaScript (ES6)** — for component logic and interactivity  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎶 Spotify-like clean and modern UI  
+- 🖼️ Album and playlist view layout  
+- 💚 Music player section design  
+- 🌙 Dark theme with responsive styling  
+
+
+> Note: This project currently focuses only on **frontend UI**.  
+> Backend and music playback functionalities are not yet implemented — as this project was created mainly for **React + Tailwind skill development**.
+
+---
+
+## 📸 Preview
+<img width="1887" height="887" alt="image" src="https://github.com/user-attachments/assets/65ad80e1-8caf-4a63-a722-213270d6c542" />
+## 💬 About the Developer
+
+👩‍💻 **Developer:** Mansha T R  
+🎓 **Department:** Computer Science and Engineering  
+🏫 **College:** Velammal College of Engineering and Technology, Madurai  
+
+I am a passionate CSE student who loves exploring web technologies and creating useful digital experiences.  
+Through projects like **Chiacrt** and **Spotify Clone**, I aim to contribute socially by building modern, user-friendly, and accessible web applications that make a difference.
+
+---
+
+### 🔗 Connect with Me
+
+💼 **LinkedIn:** https://www.linkedin.com/in/manshatr/ 
+🧑‍💻 **GitHub:** https://github.com/Mansha1105
+
